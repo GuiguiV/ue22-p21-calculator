@@ -134,7 +134,7 @@ body {
   overflow: hidden;
 }
 
-.calculator__display {
+#calculator__display {
   background-color: #222222;
   color: #fff;
   font-size: 1.714285714em;
