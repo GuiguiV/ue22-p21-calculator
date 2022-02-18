@@ -35,7 +35,7 @@ function calculate(){
         case "-":
             current_var = old_var - current_var;
             break;
-        case '&times;':
+        case '×':
             current_var = old_var * current_var;
             break;
         case "÷":
